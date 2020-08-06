@@ -1,0 +1,16 @@
+{
+  "name": "ci-action-github-api",
+  "version": "1.0.0",
+  "description": "A github action to generate github application access tokens",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@octokit/auth-app": "^2.4.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
