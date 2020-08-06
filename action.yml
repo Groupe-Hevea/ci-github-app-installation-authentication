@@ -22,4 +22,4 @@ outputs:
     description: 'A github app access token'
 runs:
   using: 'node12'
-  main: 'index.js'
+  main: 'dist/index.js'

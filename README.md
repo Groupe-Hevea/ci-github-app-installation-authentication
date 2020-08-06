@@ -38,7 +38,7 @@ A github app installation access token. You can use it to query the github API a
 
 ## Usage
 
-> We strongly recommend you to fork this repo and use the action that you forked instead of using this one.
+> We strongly recommend you to fork this repo and use the action that you forked instead of using this one for security reasons as you're dealing with private keys that must be manipulated with caution.
 
 ```yml
 - uses: allopneus/github-app-access-token@v1
