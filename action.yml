@@ -8,13 +8,13 @@ inputs:
   app_installation_id:
     description: 'Your github app installation id'
     required: true
-  private_key:
+  app_private_key:
     description: 'One of your github app private keys'
     required: true
-  client_id:
+  app_client_id:
     description: 'The app client id'
     required: true
-  client_secret:
+  app_client_secret:
     description: 'The app client secret'
     required: true
 outputs:

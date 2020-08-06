@@ -1,3 +1,3 @@
 .PHONY: build
 build: ## builds the app
-	npx webpack
+	npx ncc build src/index.js -o dist

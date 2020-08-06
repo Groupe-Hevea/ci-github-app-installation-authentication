@@ -8,8 +8,7 @@
     "@octokit/auth-app": "^2.4.13"
   },
   "devDependencies": {
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12"
+    "@zeit/ncc": "^0.22.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
