@@ -4,7 +4,7 @@
   "description": "A github action to generate github application access tokens",
   "main": "src/index.js",
   "dependencies": {
-    "@actions/core": "^1.2.4",
+    "@actions/core": "^1.9.1",
     "@octokit/auth-app": "^2.4.13"
   },
   "devDependencies": {
